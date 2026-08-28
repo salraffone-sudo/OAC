@@ -1,0 +1,30 @@
+{
+  "name": "OAC — Owners · Architects · Contractors",
+  "short_name": "OAC",
+  "description": "Salvatore J. Raffone, AIA — writing from all three seats of real estate development.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#434343",
+  "theme_color": "#434343",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

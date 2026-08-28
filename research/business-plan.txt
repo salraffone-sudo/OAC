@@ -1,0 +1,749 @@
+OAC
+Owner · Architect · Contractor
+Business Plan
+Content · Engagement · Tools · Professional Services
+“If you read OAC, you will spot collaborative opportunities between the disciplines and better navigate the complexities of your own.”
+DRAFT — April 2026
+[Your Name]
+1. Executive Summary
+1.1 The Promise
+OAC is for real estate owners, architects, and contractors. If you read OAC, you will spot collaborative opportunities between the disciplines and better navigate the complexities of your own.
+This promise is the editorial north star for every piece of content the platform produces. It is not a tentative offer of awareness—it is an assertive claim about what regular readership delivers: a working lens for seeing your project differently, not just a passive education.
+1.2 The Opportunity
+The real estate development industry operates at the intersection of three disciplines—ownership/development, architecture/design, and construction/delivery. Professionals in each discipline routinely make decisions that affect the others, yet rarely possess deep working knowledge across all three. This creates persistent friction: miscommunication, misaligned incentives, cost overruns, and missed opportunities.
+OAC is a content, tools, and professional services platform built by a practitioner who has held leadership roles across all three disciplines. The name references the Owner-Architect-Contractor coordination meeting—a weekly ritual on every project—and signals to industry professionals that this platform speaks their language.
+1.3 The Audience
+OAC readers belong to one of the three disciplines, but what unites them is not job title—it is a shared recognition that the system connecting their work is nearly broken and ripe for change. Each discipline experiences this dysfunction differently:
+Owners are frustrated by rising costs that force constant quality reduction or push them toward vertical integration just to retain control over outcomes.
+Architects are frustrated by escalating code complexity layered on top of owners who pressure them to reduce quality, compress fees, and cut the design experience down to the bone.
+Contractors are navigating a never-ending maze of procurement delays, scoping complexity, logistics hurdles, and cost increases, often with the least control over decisions made upstream.
+Each group cares about slightly different symptoms of the same underlying disease. The OAC thesis is that good collaboration across the three disciplines can resolve much of what each group experiences as someone else’s problem. The platform exists to make that collaboration legible, practical, and ultimately advisable.
+1.4 Business Model Summary
+OAC operates as a hybrid model with four product tracks: a tiered content business (free articles building into digests, box sets, and books), a low-cost paid engagement tier (Q&amp;A, symposia, and conversation), a suite of paid professional tools (AI-powered workflow applications mapped to OAC disciplines), and professional services (advisory, architecture, investment). The content explains the thinking. The engagement tier sustains the network. The tools apply the thinking. The advisory services deliver it. Together they function as a self-reinforcing flywheel—detailed fully in Section 2—that generates lead flow for high-value advisory services, architecture commissions, and real estate investment opportunities.
+1.5 Core Differentiator
+The founder has significant professional experience across all three OAC disciplines—a combination that is exceptionally rare in any one of them. This cross-disciplinary background enables generalist insights that specialists cannot replicate, drawing from lived experience in the gaps and overlaps of the Venn diagram rather than theorizing from the outside. The tools extend this differentiator from insight into action: they encode cross-disciplinary expertise into practical, immediately usable applications.
+2. The OAC Flywheel
+Every product, vertical, and workflow described in this plan is a gear in a single compounding mechanism. This section states that mechanism explicitly, names what compounds and why, and identifies the risks that could stop it from spinning.
+2.1 The Loop
+The flywheel is circular, not linear. Each stage feeds the next, and the final stage feeds back into the first:
+Written content (free, constant) builds the foundation and establishes credibility.
+The paid engagement tier (low-cost, always running) layers on top of the free content, sustaining a network of serious, self-selected readers.
+Products, tools, and coursework are built from that foundation—either repackaged from existing content or purpose-built from advisory needs.
+Speaking engagements and the products themselves expand the professional network.
+The network produces advisory fees, architecture commissions, and investment opportunities.
+Advisory work generates new lived experience—which becomes the credible raw material for the next round of written content.
+Advisory is not the destination of the flywheel. It is a re-entry point. Content is always borne out of actual experience, which is precisely why it carries credibility that purely theoretical or aggregated content cannot match.
+2.2 Why Writing Is the Foundation and the Accelerant
+None of the other gears can exist without the constant presence of the writing. Tools, courses, books, and speaking topics all originate from or are validated by what has already been written. Writing is also the slowest gear to show returns and the one that compounds most consistently and enduringly—which is why it must be treated as inviolable rather than flexible. Flywheels are notoriously slow to start: growth begins flat and only becomes vertical after sustained rotation. This is expected, not a warning sign, and the founder is positioned for the long haul accordingly.
+In practice, the writing cadence already runs with a working buffer of content scheduled a month or two into the future. This is no longer speculative—it is an established operating rhythm. Other workstreams (tool development, course design, digest compilation) flex around the writing schedule; the writing schedule does not flex around them.
+2.3 The Compounding Asset: The Topic Bank
+Reputation compounds externally and socially—speaking invitations, course opportunities, and inbound interest get cheaper to win as credibility accumulates. But there is a second, internal compounding asset that explains the mechanism more precisely: the topic bank.
+The topic bank does not grow linearly. It grows combinatorially. Every new entry can potentially connect to every prior entry through the OAC zone structure, and as the bank matures, new categories emerge organically from the accumulated material. At 50 entries, there are a few dozen plausible cross-references. At 300 entries, there are thousands. This is the structural reason later articles become easier to find an angle for and richer to write—not simply a vague effect of growing reputation, but a concrete, accumulating network of internal connections.
+Reputation and the topic bank compound through different mechanisms—one external and social, one internal and structural—and both should be tracked as distinct flywheel assets rather than conflated into a single notion of “momentum.”
+2.4 The Paid Engagement Tier as a Flywheel Accelerant
+The paid engagement tier (weekly written Q&amp;A, monthly live Q&amp;A, quarterly symposia, collaborative interviews and conversations) is deliberately kept at a low-cost threshold. It is not designed as a primary revenue source. It is designed to be always humming—a constant, low-friction mechanism that keeps the network of serious readers engaged between major content releases, generates ideas and cross-references that feed back into the free tier, and surfaces the readers most likely to become advisory clients, co-authors, or referral sources.
+This design is also a direct response to Substack’s own platform dynamics, and must adapt alongside the platform it relies upon. Paid subscriptions earn subscriber badges, which factor into platform visibility mechanics such as rising lists, and create eligibility for sponsorship and other platform-level opportunities. The low price is intentional: the tier exists to leverage these platform dynamics and spin the flywheel faster, not to maximize subscription revenue. If the tier drifts toward revenue-maximizing pricing or friction, it stops functioning as a network-sustaining gear and becomes a wall between the founder and the people most likely to become advisory clients.
+2.5 Advisory as Regional Expansion
+Advisory engagements won through network opportunities serve a second strategic function beyond fee revenue: they are a low-cost way to build a regional presence the founder does not otherwise have. Advisory work in a new region adds geographic diversity to lived experience, which increases the footprint and speed of the flywheel by diversifying the raw material that feeds back into content. A flywheel that only draws on experience from one region or one type of project will compound more slowly than one that actively seeks regional and project-type diversity through its advisory work.
+2.6 Named Risks to the Flywheel
+Two risks could stop the flywheel from spinning. Naming them explicitly is what makes this analysis useful rather than aspirational. Their current ease of execution should not be confused with lesser importance—the whole structure breaks down if either is ignored, even though both are, in practice, becoming integrated into the weekly schedule without significant strain.
+Writing cadence or quality drop: Because every other gear depends on the writing, a sustained drop in cadence or quality stalls the entire mechanism, not just the content track. This is the single point of failure for the flywheel.
+Paid tier mission drift: If the engagement tier’s low-cost, always-humming discipline slips—if it starts chasing revenue, raises prices, or adds friction—it stops functioning as a network-sustaining gear and becomes a barrier between the founder and the people most likely to become advisory clients.
+[OPERATING DISCIPLINE: Both risks are currently well-managed in practice. The note here is to remain vigilant as the business scales, not because either risk is presently acute.]
+2.7 Time Allocation Across the Flywheel
+Written content is the most significant and most constant time demand, and it operates within the founder’s established capacity—this is no longer speculative. The paid engagement tier layers on top of the writing schedule, borrowing topics and resources from the free tier rather than requiring separate ideation.
+All other content and products are created in one of two ways:
+Repackaged from existing content: Digests, box sets, and books are built from the article archive. The marginal effort is curation and framing, not new creation.
+Purpose-built from advisory needs: Tools, guidelines, and checklists are built to serve a specific need encountered in the advisory business, then repackaged as standalone products.
+This two-path structure is what keeps the flywheel sustainable for a solo operator: nothing is created from a blank page except the writing itself. Everything else is either compiled from what already exists or extracted from real advisory work already underway.
+3. Content Architecture
+The content model is structured as a pyramid, with each tier building on the one below. Free content at the base drives audience growth; paid tiers above it extract increasing value from curation, synthesis, engagement, and original framing. Critically, each tier serves a distinct strategic function for both the audience and the business—not just a different price point.
+3.1 Tier Structure
+Strategic Role
+Product
+Price Point
+Description
+Introductory Offer
+Substack Articles, Notes, LinkedIn Posts
+Free
+Short-form content exploring OAC intersections. 2 articles/week. Free permanently—this never changes.
+Engagement Tier
+Weekly Q&amp;A, Monthly Live Q&amp;A, Quarterly Symposia, Collaborative Interviews
+Low cost (TBD, kept intentionally low)
+Paid access to engagement, not content. Always running. Leverages Substack subscriber/platform dynamics to accelerate the flywheel rather than to maximize revenue.
+Attraction Offer
+Digests
+$15–20 digital / $25–30 print
+Compilations of 5–10 articles plus original framing content. Digital + print-on-demand.
+Core Offer
+Box Sets
+$60–80
+3–4 digests organized by broader theme, plus one exclusive digest only available in the set.
+High Ticket
+Books
+$30–45
+AI-assisted rethinking of lower-tier content into overarching theses. Self-published.
+Strategic Function of Each Tier
+Introductory Offer (Free): A test bed to see if the founder’s interests are shared by others. It gauges audience interest, validates the OAC thesis, and builds the subscriber base. It is robust enough to be successful in its pursuit of the OAC mission even if it never generates revenue. Every article is a complete, standalone piece of value—not a teaser designed to upsell. All articles are free permanently; this is a fixed principle, not a current-stage decision.
+Engagement Tier (Low-Cost Paid): Distinct from every other tier because it sells access and interaction, not content. Weekly written Q&amp;As, monthly live Q&amp;As, quarterly symposia, and collaborative interviews keep the network of serious readers engaged between major releases. Kept deliberately low-cost so it remains a flywheel accelerant—via Substack’s subscriber badge, rising-list, and sponsorship-eligibility mechanics—rather than becoming a revenue center in its own right. See Section 2.4 for the full rationale.
+Attraction Offer (Digests): A low-priced test drive for the audience to see if what the founder has to say at this level adds value beyond the free material. The framing content—original articles not available on Substack—transforms a collection of articles into a coherent narrative. This tier brings in revenue but is not designed to pay the bills. Priced low enough that the purchase decision is nearly impulsive.
+Core Offer (Box Sets): The middle of the stack, designed for readers who like the content and want one or two easy, comprehensive references. Requires no additional work beyond a thematic essay to tie the set together. This is the operational sweet spot: minimal marginal effort, strong perceived value, and accessible pricing for the committed reader.
+High Ticket (Books): No longer simple repackaging but a rethinking of the lower-tier content. The AI-assisted interview process draws out the founder’s macro-level insights and organizes them into overarching theses that transcend the individual articles. This tier draws the audience that loves the content but wants a deeper reframing—professionals who will use these books as reference works and, critically, as a gateway to advisory conversations.
+[KEY PRINCIPLE: Each tier must justify its price independent of the content below it. The packaging is the product. The engagement tier is the exception to this rule by design—it is not meant to be justified by price-to-value alone, but by its role in sustaining the flywheel.]
+3.2 Content Development Process
+Article Creation
+The founder writes all content, using AI as an interview and ideation partner. AI conducts structured interviews based on the founder’s experience across the three disciplines, generating raw material that the founder refines into publishable articles. Each article focuses on a specific aspect of the OAC Venn diagram—an overlap, a gap, a friction point, or an insight that emerges from cross-disciplinary fluency.
+Analytics-Driven Compilation
+At every tier, analytics guide compilation decisions. Substack engagement data identifies which topics resonate most. Popular articles seed spin-off articles that expand on high-performing themes. Digests are compiled around themes validated by readership data. Box sets and books are organized around broader patterns that emerge from the analytics.
+Upward Mobility of Content
+Articles → Digests: Most popular articles grouped by theme; framing articles written to create narrative coherence
+Digests → Box Sets: Related digests bundled; exclusive digest written to expand on unifying theme
+Box Sets → Books: AI-assisted interview process synthesizes multiple themes into larger thesis; not a simple compilation but a reframing
+Monthly Reading List
+A byproduct of the weekly scan, not additional work. The scan already curates 10–15 headlines and 2–3 deep dives per week. A monthly reading list compiles the most notable items into a curated resource—a “what to read this month in the OAC world” roundup published as a free Substack post, following the model established by Brian Potter’s Construction Physics newsletter.
+The reading list provides additional value at zero marginal writing effort, positions the founder as a knowledgeable curator (reinforcing cross-disciplinary credibility), and creates natural opportunities for Substack cross-promotion.
+3.3 The Engagement Tier in Practice
+The engagement tier sits structurally between the free Introductory Offer and the paid Attraction Offer, but it is not a content product—it is a relationship product. Its components:
+Weekly written Q&amp;A: Paid subscribers submit questions; the founder answers in writing, drawing on real OAC experience. Light lift, high relationship value.
+Monthly live Q&amp;A: A scheduled live session (video or audio) for deeper, real-time conversation.
+Quarterly symposia: A more substantial live gathering—potentially multi-person—that functions as both a content event and a networking opportunity for paid subscribers.
+Collaborative interviews and conversations: Founder-initiated conversations with other practitioners or paid subscribers, which may themselves become free content (with permission) or remain a subscriber-only benefit.
+Pricing for this tier should remain low enough that it reads as a modest, easy yes—not as a meaningful purchase decision. Its value is measured by network health and advisory lead quality, not by revenue per subscriber.
+3.4 Content-to-Tools Pipeline
+Articles and tools are tightly linked: articles explain the thinking, tools apply it. An article about scope gaps links to the document completion evaluator. An article about early-stage budgeting links to the ROM cost estimator. This creates a natural progression from insight to action that no comparable AEC content platform offers. The tools are described fully in Section 5.
+4. Content Generation Workflow
+Consistent, high-quality content at a pace of two articles per week—while working full-time—requires a systematic intake and ideation process. This section describes three analytical layers operating at different cadences: the automated weekly scan (what to write about), the monthly strategic debrief (how to build the business), and the quarterly craft analysis (how to write effectively). Together with the topic bank and the qualitative feedback loop, these form the content generation engine.
+4.1 Weekly Scan: Overview
+A scheduled Claude Cowork task runs weekly to scour industry sources, analyze audience engagement data, and deliver a curated briefing. The scan is governed by a prompt file (scan-prompt.md) that defines sources, format, and logic. The output feeds a persistent topic bank (topic-bank.md). Both files are designed to be modified as the process evolves.
+4.2 Scan Process: Four Phases
+Phase 1: Mood Check
+Before scanning, Cowork asks two questions:
+Discipline focus: Which part of the OAC map are you drawn to this week? Options: Owner, Architect, Contractor, any pairwise intersection, the center, or “surprise me” (randomized for diversity).
+Mode: Reactive (“show me what’s broken, controversial, or misunderstood”) or generative (“feed me something emerging, novel, or inspiring”).
+The mood check ensures diversity of input over time. Weeks tagged “surprise me” serve as deliberate disruption.
+Phase 2: Industry Scan
+Cowork searches across defined source categories, filtered by mood check and weighted toward the selected discipline:
+Trade publications: ENR, Architectural Record, Building Design + Construction, and similar
+Industry organizations: AIA, ULI, NAIOP, AGC publications, newsletters, and event recaps
+The scan cross-references results against the existing topic bank and flags overlaps. Overlapping results are marked, not excluded.
+Phase 3: Performance Review (Quantitative + Qualitative Feedback Loop)
+Each week, Cowork reviews cumulative engagement data, now expanded to include both quantitative metrics and qualitative signal:
+Substack metrics: Open rates, likes, comments, shares, subscriber growth attributed to specific articles
+LinkedIn metrics: Impressions, engagement rate, comments, reshares
+Restacks: Substack restacks of the founder’s posts are tracked as a distinct signal from likes or comments. Restacks indicate a reader found the piece valuable enough to actively re-share to their own network—a stronger endorsement than passive engagement. Frequency and source of restacks help identify which pieces resonate widely enough to warrant direct spin-offs.
+Comment synthesis: Reader comments (on Substack and LinkedIn) are read and synthesized, not just counted. The goal is to discern *why* a piece resonated—which specific claim, framing, or example readers responded to—not just that it did. This is qualitatively distinct from the restack signal: restacks tell you what resonates, comment synthesis tells you why.
+Using all-time cumulative data, the performance review identifies the strongest-performing content and does three things with it:
+Spin-off suggestions: Breaks popular topics into narrower sub-questions or deeper investigations, informed by both restack patterns and comment themes.
+Adjacent topic discovery: Identifies related subject matter the audience would likely respond to based on demonstrated interest patterns.
+Voice calibration: Comment synthesis over time reveals which tones, examples, and framings the audience consistently responds to, refining how future articles are written, not just what they cover.
+Phase 3a: Analytics Data Access
+Substack and LinkedIn do not currently offer public APIs for analytics, and comment and restack data must likewise be reviewed manually or semi-manually. The founder periodically exports or pastes metrics and notable comment themes into analytics-data.md. If programmatic access becomes available, the manual step can be eliminated. The prompt file includes a conditional: if analytics-data.md is stale (&gt;14 days), the performance review is skipped.
+Phase 4: Weekly Output
+Cowork delivers a single document with four sections:
+Deep Dives (2–3 topics): Neutral trend summary plus suggested OAC angle. Framed according to mood—reactive surfaces tensions; generative surfaces opportunities.
+Headline Scan (10–15 items): One-line summaries tagged by OAC discipline. Scannable in under 5 minutes.
+Performance Review: Top-performing content with spin-off, adjacency, and voice-calibration suggestions, drawing on restack and comment data. Omitted if data is stale.
+Topic Bank Updates: Suggested new entries, pre-formatted, with overlap flags.
+The full output is designed to be read and acted on in under 30 minutes.
+4.3 Quarterly Craft Analysis
+While the weekly scan addresses what to write about, the quarterly craft analysis addresses how to write it. A separate Cowork task examines structural and stylistic patterns that drive engagement—in the founder’s content and across a peer set. Adapted from Jenny Ouyang’s research on content performance.
+Three-Pass Methodology
+Pass 1 — Format Mix: Evaluates distribution of content formats and their relative performance. Looks for high-performing archetypes, especially the “tactical revelation” format: specific claim, immediately usable insight, complete without a click, short enough to remember.
+Pass 2 — Structure: Examines internal architecture of posts. What does the first line do? Is value in the text or behind a click? Post-link notes consistently underperform standalone notes.
+Pass 3 — Patterns: Identifies recurring patterns and data that contradicts conventional advice, cross-referenced against the comment synthesis from the weekly performance review. Produces an evolving pattern taxonomy:
+Tactical Revelation: A specific, actionable claim delivered completely within the post.
+Named Behavior: Identifies and names a phenomenon the audience recognizes but has never had language for.
+Worldview Statement: A declarative position that invites agreement or productive disagreement.
+Milestone Done Right: A milestone shared with craft and substance rather than empty celebration.
+Post Link Done Right: When linking is necessary, the post contains enough standalone value that the link is a bonus.
+Format Pattern Tagging
+Every published article and LinkedIn post is tagged with its primary format pattern in the topic bank, creating a multi-dimensional dataset: what (OAC zone), how (format pattern), and how it performed (engagement data, restacks, and comment themes). The taxonomy evolves as the quarterly analysis identifies new patterns.
+Peer Set
+A curated set of peer accounts maintained in peer-list.md. Not limited to AEC—effective content craft transcends subject matter. The list grows organically as the founder’s reading habits develop.
+Core Principle
+The posts that engage a community win. They are not text wrapped around a link—they deliver value on their own. Consistent voice raises your floor permanently; virality raises it once.
+4.4 Monthly Strategic Debrief
+The monthly debrief addresses how to build the business. A structured reading-and-reflection practice where the founder reads Substack authors and content entrepreneurs solving similar problems—people like Timo Mason (product ecosystem stacking), Jenny Ouyang (engagement mechanics), and Dheeraj Sharma (AI team architecture)—and extracts applicable insights through an AI-assisted interview.
+Claude asks: What did this author do that’s applicable to OAC? What’s the gap between their model and yours? What would you adopt or reject? What experiment could you run in the next 30 days? The output is captured in strategy-notes.md, organized by business theme: packaging, pricing, distribution, content strategy, business model evolution.
+Monthly is the target cadence but this is the most flexible layer. If nothing grabbed your attention, skip it. If something provocative appears, don’t wait.
+4.5 Topic Bank
+The topic bank (topic-bank.md) accumulates potential article topics over the life of the platform, organized by the seven zones of the OAC Venn diagram. As established in Section 2.3, the bank is the platform’s primary internal compounding asset—its value grows combinatorially as cross-references between entries multiply, and new categories emerge organically as the bank matures.
+Owner (O): Development strategy, finance, entitlements, investment, risk
+Architect (A): Design, code compliance, sustainability, technology, practice
+Contractor (C): Delivery, procurement, scheduling, labor, safety, prefabrication
+Owner-Architect (O-A): Programming, scope, design intent vs. budget, value engineering
+Architect-Contractor (A-C): Constructability, BIM coordination, RFIs, submittals, means and methods
+Owner-Contractor (O-C): Contracts, change orders, cost control, schedule, delivery methods
+Center (O-A-C): Integrated project delivery, alignment, the coordination meeting itself
+Entry Format
+Topic: Concise description of potential article subject
+OAC Zone: Venn diagram position (new zones may emerge as the bank matures)
+Suggested Format Pattern: Recommended archetype from pattern taxonomy
+Date Added / Source: When created and origin
+Suggested Angle: OAC-specific framing
+Status: New, Shortlisted, In Progress, Published, or Shelved
+Overlap Flag: References to related entries or published articles
+Performance Tag (post-publication): Format pattern used, engagement metrics, restack count, comment themes
+Input Channels
+Six sources feed the bank:
+Weekly scan: Primary automated source. Trends and developments from industry publications.
+Craft analysis byproducts: Topic ideas surfaced as side effects of studying content patterns.
+Engagement activity (inbound): Comments, restacks, questions, and reactions on the founder’s content. Reader questions reveal gaps in understanding that map to the Venn diagram.
+Engagement activity (outbound): The founder’s interactions on peer Substacks, sparking “that’s not quite right” reactions.
+Strategic debrief insights: Business strategy reading occasionally generates topic ideas.
+Personal experience (including advisory work): Real-world project friction, client conversations, and on-the-ground observations—including, critically, experience generated through advisory engagements. This channel closes the flywheel loop described in Section 2.
+4.6 File Architecture
+Five markdown files govern the content generation system:
+File
+Purpose
+Updated By
+scan-prompt.md
+Master instruction set for weekly Cowork scan.
+Founder
+topic-bank.md
+Cumulative topic bank by OAC zone. Includes format pattern tags, performance data, restack counts, and comment themes.
+Cowork + Founder
+analytics-data.md
+Engagement metrics from Substack and LinkedIn, plus restack counts and synthesized comment themes.
+Founder (manual)
+peer-list.md
+Peer accounts for craft analysis and strategic debrief. Initial: Ouyang, Mason, Sharma, Potter.
+Founder
+strategy-notes.md
+Business strategy insights from monthly debriefs. Organized by theme.
+Founder (via debrief)
+4.7 Content Selection: From Bank to Article
+Monday: Review weekly scan (~30 min). Curate topic bank. Shortlist 2–3 candidates. Consider format pattern recommendations.
+Writing sessions: AI interview to develop topics. Chosen format pattern shapes structure.
+Publishing: 2/week via Substack. Each runs through SEO skill (4.8) first. LinkedIn posts derived. Tagged in topic bank.
+Post-publication: Performance metrics, restacks, and comment themes added to the topic bank entry, closing the feedback loop.
+4.8 Pre-Publication SEO Optimization
+Every article passes through a custom Claude skill before publishing. The skill evaluates the draft against Substack-specific SEO best practices and returns a checklist—it does not rewrite content or compromise voice.
+What It Evaluates
+SEO Title: Length (40–60 chars), keyword placement, specificity.
+Meta Description: Whether opening lines work as search snippet.
+URL Slug: Short, keyword-focused (3–5 words), main keyword first.
+Header Structure: H2/H3 hierarchy for crawlability.
+Internal Links: Cross-references topic bank and published index. The OAC Venn diagram creates natural topical clusters.
+Image Alt Text: Flags missing alt text. Suggests accessible, keyword-relevant descriptions.
+Keyword Coherence: Core terms align with what AEC professionals actually search for. No keyword stuffing.
+Social Preview Image: Confirms image is set (posts with images get significantly more signups and clicks).
+The skill adds 5–10 minutes per article. Built after the first 5–10 articles (~month 1–2), refined as search performance data becomes available through Google Search Console.
+[ACTION ITEM: Connect Substack to Google Search Console at launch.]
+4.9 AI Team Structure
+The content generation workflow is executed by a team of five specialized AI assistants with quality control gating between stages. Adapted from Dheeraj Sharma’s multi-agent content architecture.
+The Five Roles
+Role 1 — The Scanner: Executes the weekly scan. Goes wide across many topics. Scheduled Cowork task governed by scan-prompt.md.
+Role 2 — The Researcher: Activated when the founder selects a topic. Goes deep on one subject—finding current data, competing perspectives, OAC angles not yet explored.
+Role 3 — The Interviewer: The writing partner. Conducts the AI-assisted interview that extracts the founder’s cross-disciplinary thinking. The Researcher’s output feeds the Interviewer’s questions.
+Role 4 — The Editor: Reviews drafts for coherence, accuracy, voice consistency, and whether the article delivers on the OAC promise stated in Section 1.1. The quality gate that protects the brand.
+Role 5 — The Optimizer: The SEO skill plus format pattern validation. The final gate before publishing.
+QC Gating
+Gate 1 (Scanner → Researcher): Founder selects topic. Only shortlisted topics advance.
+Gate 2 (Researcher → Interviewer): Founder reviews research. Insufficient topics return to bank.
+Gate 3 (Interviewer → Editor): Raw transcript refined into draft. Founder self-edits first.
+Gate 4 (Editor → Optimizer): Editor feedback incorporated. Draft finalized.
+Gate 5 (Optimizer → Publish): SEO and format recommendations applied selectively.
+The founder is the human in the loop at every gate. No content publishes without explicit approval.
+Implementation Path
+Phase 1 (Launch): Cowork for Scanner. Claude Projects with system prompts for Researcher, Interviewer, Editor, Optimizer. ~80% capability with minimal setup.
+Phase 2 (Month 3–6): Custom Claude skills for Optimizer. Explore Claude Code/MCP architecture.
+Phase 3 (Month 6+): If justified, migrate to Claude Code subagents with MCP servers. Agent files are plain English markdown—accessible to non-developers.
+5. Builder Component: OAC Tools
+The OAC platform includes a suite of paid, AI-powered professional tools that extend the content thesis into practical application. Articles explain the thinking. Tools apply it. As established in Section 2.7, tools are one of the two ways non-writing products are created—either repackaged from existing content or purpose-built from advisory needs and then repackaged. This content-to-tools pipeline creates a flywheel gear that no comparable AEC content platform offers: a reader recognizes a problem in an article, then immediately has a tool to address it.
+5.1 Strategic Rationale
+The tools serve different strategic purposes depending on the tool:
+Lead generation and credibility: Some tools (like an RFP template generator) demonstrate cross-disciplinary expertise to potential advisory clients. The tool itself signals that the founder has operational depth, not just opinions.
+Independent revenue: All tools are priced as standalone paid products with real value independent of the content. They generate revenue from users who may never read the Substack.
+Advisory differentiator: Tools built for the founder’s own advisory practice become part of the advisory offering. Clients get access to purpose-built tools that competitors don’t have.
+Content amplifier: Each tool naturally generates article topics. Building a ROM estimator surfaces insights about how owners, architects, and contractors think about costs differently—which becomes an article, which links back to the tool.
+The tools are the only product in the OAC ecosystem that does something for the user rather than teaches them something. This makes them a fundamentally different value proposition from content—and a powerful complement to it.
+5.2 Tool Catalog
+Tools are organized by OAC Venn diagram zone, consistent with the topic bank and content architecture. The current catalog includes 5–10 tools in various stages of development:
+Tool
+OAC Zone
+Description
+Status
+ROM Cost Estimator
+O-A-C (Center)
+Rough order of magnitude construction cost analysis for early-stage project budgeting
+In development
+Document Completion Evaluator
+A-C
+Assesses completeness of architectural deliverables against expected scope
+In development
+Coordination Checkup
+O-A-C (Center)
+Evaluates project coordination health across all three OAC disciplines
+In development
+Value Management Screener
+O-A
+Screens design decisions against owner value priorities and budget constraints
+In development
+Proposal Builder
+O-A / O-C
+Generates structured A/E or contractor proposals from project parameters
+In development
+RFP Template Generator
+O
+Produces owner-side RFP documents tailored to project type and delivery method
+In development
+[NOTE: This catalog will evolve. New tools emerge as the founder encounters workflow friction in advisory practice—each friction point is a potential tool. The topic bank should include a “Tool Idea” status tag for entries that suggest tool development rather than article writing.]
+5.3 Delivery Model
+Every tool is offered in dual format, letting the purchaser choose based on their preferred working style:
+Claude Skill
+A custom Claude skill that integrates into the buyer’s own Claude environment. This format is more powerful and customizable—the user can modify prompts, chain the tool with other workflows, and adapt it to their specific context. Best for professionals who already use Claude and want tools that integrate into their existing AI workflow.
+Web Application
+A standalone web app accessible to anyone with a browser. Simpler to use, no Claude subscription required, but less customizable. Best for professionals who want a point solution without adopting a new platform. Built as lightweight React or HTML applications.
+Offering both formats is a competitive advantage. Most AEC tool builders force users into a single platform. OAC lets the buyer decide how they want to work.
+5.4 Pricing
+All tools are sold as one-time purchases. No subscriptions, no recurring fees. This aligns with the founder’s operational reality as a side project—subscription models require ongoing maintenance, customer support infrastructure, and feature updates that a solo operator cannot reliably sustain.
+Simple tools (templates, generators): $25–$75
+Mid-complexity tools (evaluators, screeners): $75–$200
+High-complexity tools (ROM estimator, coordination checkup): $200–$500
+[OPEN QUESTION: Pricing requires competitive analysis against existing AEC tools and sensitivity testing with early users. The ranges above are preliminary and should be validated before launch. Consider introductory pricing for early adopters and bundled pricing for multiple tools.]
+5.5 Content-to-Tools Pipeline
+The connection between articles and tools is bidirectional and continuous:
+Articles → Tools
+Articles explain the frameworks, diagnostic methods, and cross-disciplinary insights that underpin each tool. A reader who understands scope triangulation from the articles sees the Document Completion Evaluator as a natural next step. Articles include links to relevant tools where appropriate—not as upsells but as practical applications of the ideas discussed.
+Tools → Articles
+Building tools generates article ideas. The process of encoding expertise into a tool surfaces edge cases, exceptions, and nuances that become articles themselves. A tool for ROM cost estimation raises questions about how different delivery methods affect early-stage budgeting—which becomes an article in the O-C zone, which links back to the tool.
+Tools → Advisory
+Tools built for the founder’s own advisory practice become differentiators in advisory engagements. Clients don’t just get advice—they get access to purpose-built analytical tools. Over time, the tool suite becomes a moat around the advisory practice that competitors cannot easily replicate.
+5.6 Development Process
+Tools emerge from two sources, consistent with the two-path structure described in Section 2.7: the founder’s own workflow friction (building tools to solve real problems in advisory practice) and the content creation process (articles that naturally suggest a tool application). The development cycle:
+Identify friction: A recurring workflow problem in the founder’s practice or a frequently asked question from the audience.
+Build for self: Create a Claude skill that solves the problem for the founder’s own use. Test extensively in real project contexts.
+Validate through content: Write an article explaining the framework behind the tool. Gauge audience interest through engagement metrics.
+Productize: If engagement validates interest, develop the web app version alongside the Claude skill. Set pricing. Create documentation.
+Launch: Release both formats. Link from relevant articles. Announce to Substack audience.
+This sequence ensures every tool is battle-tested in real advisory work before it reaches the market. The founder is always the first user.
+6. Revenue Model
+6.1 Revenue Streams
+The business generates revenue from four categories: content products, the paid engagement tier, tools, and professional services.
+Content Revenue
+Attraction Offer: Digest sales, digital and print-on-demand ($15–20 digital / $25–30 print)
+Core Offer: Box set sales ($60–80)
+High Ticket: Book sales ($30–45)
+AIAU and other continuing education course fees (beginning year 2)
+Speaking engagement fees (beginning year 2)
+Engagement Tier Revenue
+Low-cost recurring access fee for weekly Q&amp;A, monthly live Q&amp;A, quarterly symposia, and collaborative interviews
+Modest and intentionally capped—revenue is a secondary outcome, not the design goal (see Section 2.4)
+Tools Revenue
+One-time purchases across the tool catalog ($25–$500 per tool depending on complexity)
+Potential bundled pricing for multiple tools
+Professional Services Revenue (the real play)
+Advisory services: Paid consulting on development strategy, OAC coordination, project structuring
+Architecture fees: Direct commissions generated through advisory relationships
+Real estate investment opportunities: Deal flow surfaced through the advisory network
+Regional expansion value: Advisory work in new regions builds geographic presence and diversifies the experience base feeding back into content (see Section 2.5)
+6.2 Revenue Projections
+Content, engagement tier, and tools revenue targets are stretch goals. The economic justification is that 1–2 meaningful advisory or deal-flow leads per year justify the entire operation.
+Year 1
+Year 2
+Year 3
+Content Revenue
+$0–$2K
+$5K–$15K
+$30K–$60K
+Engagement Tier Revenue
+$0–$1K
+$2K–$5K
+$5K–$10K
+Tools Revenue
+$0–$5K
+$10K–$30K
+$30K–$75K
+Course/Speaking Revenue
+$0
+$5K–$15K
+$15K–$30K
+Advisory/Services Revenue
+$0
+Variable
+Variable—primary driver
+Introductory Offer (articles)
+~100
+~200
+~300
+Attraction Offer (digests)
+0
+20–25
+40–50
+Core Offer (box sets)
+0
+5
+10
+High Ticket (books)
+0
+0
+1 (+ 1 in dev)
+Tools available
+3–5
+6–10
+10–15
+[NOTE: Engagement tier revenue is deliberately modest by design—see Section 2.4. Tools and advisory revenue projections remain preliminary and unvalidated. Advisory revenue is highly variable—a single engagement could range from $25K to $500K+.]
+6.3 Unit Economics — Print-on-Demand
+Digest production via POD at approximately 60–120 pages, B&amp;W interior:
+Item
+Estimate
+POD cost per unit (B&amp;W, ~100pp)
+$3.50–$5.50
+Digital production cost
+Near zero
+Retail price (print)
+$25–$30
+Gross margin (print)
+~80%
+Retail price (digital)
+$15–$20
+Gross margin (digital)
+~95%+
+[OPEN QUESTION: Visual density of articles (B&amp;W vs. color) affects POD cost significantly.]
+6.4 Unit Economics — Tools
+Tools have minimal marginal cost once developed:
+Item
+Estimate
+Development cost per tool
+Founder’s time (sweat equity)
+Hosting cost (web app)
+$0–$50/month depending on platform
+Claude skill distribution cost
+Near zero
+Gross margin
+~90–95%
+The primary investment is development time. Once built and tested, tools generate revenue with minimal ongoing cost—making them the highest-margin product in the OAC ecosystem after digital content.
+7. Marketing &amp; Distribution
+7.1 The Core Challenge
+The business launches with no existing audience and a startup budget under $10K. Audience acquisition is the primary bottleneck and must be treated as a year 1 operational priority.
+7.2 Messaging Foundation
+All marketing and distribution efforts should consistently express the promise and audience definition established in Section 1:
+The Promise: OAC is for real estate owners, architects, and contractors. If you read OAC, you will spot collaborative opportunities between the disciplines and better navigate the complexities of your own.
+The Audience: Practitioners across all three disciplines who recognize the system connecting their work is nearly broken—owners frustrated by cost pressure and quality erosion, architects frustrated by code complexity and fee compression, contractors frustrated by procurement and logistics friction. United by the belief that better collaboration solves what each experiences as someone else’s problem.
+This messaging should appear consistently across the Substack landing page, the LinkedIn profile, the website (Section 7.5), and every speaking pitch. A prospective reader or client should encounter the same promise and the same recognition of their frustration regardless of where they first find OAC.
+7.3 Distribution Channels
+LinkedIn (Primary Free Channel)
+Highest-ROI free distribution for professional B2B content in AEC. Short-form contrarian takes, cross-disciplinary insights, and OAC intersection content perform well on the platform.
+Target cadence: 3–5 posts/week, derived from articles (not additional writing effort).
+Action required: Optimize LinkedIn profile around the OAC promise and audience definition. Begin posting before Substack launch.
+Speaking Engagements (Primary In-Person Channel)
+Every speaking engagement is a subscriber acquisition opportunity and, per Section 2.5, a regional expansion opportunity. Target venues: AIA chapters, ULI district councils, NAIOP, real estate associations, architecture schools and universities, contractor associations.
+Conversion mechanics: QR code on slides, one-page handout with subscribe CTA, follow-up email sequence, mention specific articles during talks.
+Substack Network Effects
+Cross-promotion, Substack Notes participation, and the platform’s built-in recommendation engine. Free but requires consistent engagement. The engagement tier (Section 3.3) directly reinforces this channel through subscriber badges and rising-list visibility.
+Tool Demos as Marketing
+Tools offer a unique marketing channel that content alone cannot: demonstrable utility. A free demo or limited version of a tool can convert users who would never subscribe to a newsletter. Tool-specific landing pages, LinkedIn posts showing tool output, and conference demos create additional entry points into the OAC ecosystem.
+7.4 Marketing Budget
+Item
+Estimated Cost
+Priority
+LinkedIn profile + content templates
+$0 (sweat equity)
+Critical
+Substack setup + branding
+$0–$500
+Critical
+Website build (see 7.5)
+$0–$2,000 depending on path
+Critical
+Speaking materials (handouts, QR signage)
+$200–$500
+Critical
+Tool hosting / deployment
+$0–$600/yr
+High
+Email marketing (Substack native)
+$0–$300/yr
+High
+Digest cover design templates
+$500–$1,000
+High
+Paid LinkedIn promotion
+$500–$2,000
+Low—year 2
+7.5 Website Build
+Substack handles subscriptions and free distribution well but is a poor storefront for digests, box sets, books, and tools. A dedicated website with proper commerce functionality is needed to support the paid product catalog. Two primary paths are under consideration, plus a third worth evaluating:
+Path A: Squarespace (Templated)
+A templated UX with a clear shopping grid and built-in payment processing, with AI assistance for setup and content population. Fastest path to a live storefront with the least ongoing maintenance. Tradeoffs: design is constrained by the template, and Squarespace’s commerce fees stack on top of payment processor fees.
+Path B: Custom HTML + Shopify Backend
+A fully custom, AI-built front end with a Shopify backend for payment processing and commerce infrastructure. Full design control and access to Shopify’s excellent inventory, discount code, and digital product delivery tools. Tradeoffs: two platforms to maintain, and a full Shopify storefront may be more infrastructure than the catalog size currently warrants.
+Path C: Webflow + Shopify Buy Button (Under Consideration)
+Custom design control comparable to hand-coded HTML, but with visual tooling and a built-in CMS, paired with Shopify’s Buy Button embedded directly into product pages rather than running a full Shopify storefront. Lower monthly cost and less platform complexity than Path B while retaining most of its design flexibility.
+Decision Criteria
+The choice between paths should be made based on:
+Time available for setup and ongoing maintenance versus desire for design control
+Expected SKU volume—a small catalog (5–15 tools, a handful of digests) may not need full Shopify infrastructure
+Total cost of platform fees plus payment processing fees across each path
+Whether the website needs to support digital product delivery (tools, ebooks) natively or through a third-party fulfillment integration
+[DECISION NEEDED: Finalize website path before the tool catalog and digest products are ready for public sale. This is a launch-blocking decision for any paid product beyond Substack-native subscriptions.]
+8. Additional Revenue Verticals
+8.1 Continuing Education: Courses and Curricula
+Continuing education is adapted from top-performing Substack content and serves both AIA continuing education requirements and broader professional development needs across the OAC disciplines. This vertical has two distinct levels that should not be conflated:
+Single CE Courses
+Individual continuing education courses, typically 1–2 credit hours, adapted directly from a single high-performing article or a tightly related cluster of articles. Free courses serve as lead generation; paid courses ($50–$300) serve as deeper dives. Target organizations include AIA chapters and state components, ULI (which offers its own professional development programming), and NAIOP.
+Larger Curricula
+Multi-session programs or certificate-level offerings that synthesize multiple OAC zones into a structured learning path—closer in scope to a short course than a single CE credit. These draw on the same AI-assisted interview and synthesis process used for books (Section 3.2), reframing article clusters into a sequenced curriculum rather than a single lecture. Appropriate venues include university extension programs, AIA component-level certificate programs, and ULI’s educational initiatives.
+Delivery Format
+Both single courses and larger curricula should be designed for dual delivery, consistent with the platform’s approach to tools:
+Web/self-paced: Recorded or written modules delivered online, asynchronous, lower marginal cost per additional student
+Print/live: Workshop-style delivery with printed materials, appropriate for in-person AIA chapter events, conference pre-sessions, or university guest lectures
+[OPEN QUESTION: Determine format priority—self-paced video, live workshop, or hybrid—and research AIA, ULI, and NAIOP continuing education credit requirements and approval processes in year 1.]
+8.2 Speaking Engagements
+Speaking serves three functions simultaneously: subscriber acquisition (Section 7.3), credibility compounding (Section 2.2), and regional expansion (Section 2.5).
+Target Venues
+AIA local and state chapters
+ULI district councils and programming
+NAIOP events and chapters
+Real estate development conferences and industry summits
+Universities and architecture schools—both as guest lectures (leveraging the founder’s Pratt Institute teaching background) and as a pipeline into larger curricula partnerships
+Contractor and trade association meetings
+Progression and Fee Structure
+Begin unpaid in year 1 to build audience, refine talks, and establish a track record. Transition to paid engagements in year 2 as reputation builds. Typical AEC industry speaking fees range from honorarium-level ($0–$500 plus travel) for local chapter events to $1,500–$5,000+ for keynote slots at larger conferences, though this varies considerably by region and organization—validate against comparable speakers before setting rate expectations.
+Topic Development
+Develop 2–3 signature topics derived from the most popular Substack themes, identified through the performance review process (Section 4.2, Phase 3). These become repeatable assets that can be adapted in length and depth for different venues—a 20-minute chapter talk, a 45-minute conference session, and a 90-minute university lecture, all built from the same core material.
+Conversion Back to the Ecosystem
+Every speaking engagement should funnel attendees back into the flywheel: QR codes and handouts drive Substack subscriptions, mentions of specific tools demonstrate the builder component, and direct conversations with attendees are a primary source of both topic bank entries and advisory leads.
+8.3 Advisory Services (Year 3 / Organic)
+Highest-value output of the platform, and—per Section 2—not an endpoint but a re-entry point into the flywheel. Advisory engagements feed architecture commissions and investment opportunities, and the experience gained feeds back into content. Differentiated by the OAC tool suite and the cross-disciplinary knowledge base.
+Service model: Development strategy, OAC coordination optimization, project structuring, owner representation
+Lead source: Substack readership, engagement tier subscribers, speaking audiences, AIAU and other CE participants, tool users, referral network
+Regional strategy: Actively pursue advisory opportunities in new regions to diversify experience and accelerate the flywheel, not solely to maximize fee revenue in the founder’s home market
+Pricing: Market-rate consulting fees; structure TBD
+9. Operations &amp; Production
+9.1 Staffing
+Solo operation as a side project alongside a full-time professional role.
+9.2 Production Workflow
+Activity
+Cadence
+Time Estimate
+Weekly scan review + topic curation
+Weekly
+30 min
+Article writing (AI-assisted)
+2x/week
+4–6 hrs/week
+Pre-publication SEO optimization
+2x/week
+10–20 min/week
+LinkedIn posts (from articles)
+3–5x/week
+2–3 hrs/week
+Engagement tier (Q&amp;A, symposia prep)
+Weekly + periodic
+1–2 hrs/week
+Tool development and testing
+Ongoing
+3–5 hrs/week
+Digest compilation + framing
+Monthly (year 2+)
+8–12 hrs/digest
+Analytics + comment/restack review export
+Biweekly
+20–40 min
+Quarterly craft analysis review
+Quarterly
+1–2 hrs
+Monthly strategic debrief
+Monthly
+1–2 hrs
+Speaking preparation
+As needed
+Variable
+Total estimated weekly commitment: 10–18 hours in year 1 (including tool development and the engagement tier), increasing in year 2.
+Writing is treated as inviolable rather than flexible, consistent with Section 2.2. The founder maintains a working buffer of content scheduled a month or two into the future, which is now an established practice rather than a goal. Other workstreams—tool development, course design, digest compilation—flex around the writing schedule, not the reverse.
+9.3 Technology Stack
+Content platform: Substack (free tier + paid engagement tier)
+Email/subscriber management: Substack native tools
+Analytics: Substack dashboard + Google Analytics + Google Search Console
+Website/commerce: Squarespace, or custom HTML/Webflow + Shopify (decision pending, see Section 7.5)
+AI tools: Claude (interview ideation, weekly scan via Cowork, quarterly craft analysis, monthly debrief, pre-publication SEO, drafting, book synthesis)
+Content system: scan-prompt.md + topic-bank.md + analytics-data.md + peer-list.md + strategy-notes.md
+Tool development: Claude skills + React/HTML web apps
+Tool distribution: Direct sales via website + Claude skill marketplace (if available)
+Print-on-demand: Amazon KDP and/or IngramSpark
+Design: Canva or similar for covers
+Social: LinkedIn native posting
+10. Three-Year Timeline
+Year 1: Foundation
+Launch Substack; publish 100 articles (2/week), free permanently
+Launch the paid engagement tier at a deliberately low price point
+Stand up weekly scan workflow (scan-prompt.md, topic-bank.md, analytics-data.md)
+Activate LinkedIn as primary distribution (3–5 posts/week), built around the OAC promise and audience definition
+Finalize website path (Squarespace vs. custom HTML/Shopify vs. Webflow/Shopify Buy Button) and launch storefront
+Begin speaking at AIA chapters, universities, and industry events (unpaid/low-paid)
+Develop conversion mechanics for speaking → subscriber pipeline
+Build subscriber base; target: 1,000–3,000 free subscribers by year-end
+Connect Substack to Google Search Console at launch
+Build and test SEO optimization skill (~month 1–2)
+Stand up AI team Phase 1: Cowork for Scanner, Claude Projects for other roles
+Begin populating analytics-data.md, including restack and comment synthesis (~month 3)
+Begin building peer-list.md organically
+Begin monthly strategic debriefs (~month 2–3)
+Run first quarterly craft analysis (end of Q2)
+Launch 3–5 tools (Claude skill + web app formats)
+Research AIA, ULI, and NAIOP continuing education requirements
+Year 2: Monetization Begins
+Reach 200 articles on Substack
+Produce 20–25 digests (digital + print-on-demand)
+Produce 5 box sets
+Expand tool catalog to 6–10 tools
+Launch first continuing education courses (free and paid) and explore larger curricula partnerships
+Transition to paid speaking engagements
+Target: 5,000–10,000 free Substack subscribers; grow engagement tier alongside
+Content revenue target: $5K–$15K
+Tools revenue target: $10K–$30K
+Analytics feedback loop (including restack/comment synthesis) and quarterly craft analysis fully operational
+Monthly strategic debriefs producing business model refinements
+AI team Phase 2: Custom skills for Optimizer; explore Claude Code/MCP
+Begin identifying advisory opportunities organically, including in new regions
+Year 3: Scale &amp; Services
+Reach 300 articles on Substack
+Produce 40–50 total digests, 10 box sets
+Publish first book (AI-assisted synthesis); second in development
+Expand tool catalog to 10–15 tools
+Formalize advisory services offering—differentiated by tool suite and regional reach
+Target: 1–2 meaningful advisory/deal-flow leads
+Content revenue target: $30K–$60K
+Tools revenue target: $30K–$75K
+Advisory/architecture/investment revenue: variable but potentially dominant
+Topic bank and tool suite serve as searchable knowledge base for advisory work
+AI team Phase 3 if warranted: Full MCP subagent architecture
+Strategy-notes.md serves as evolving business playbook
+11. Key Risks &amp; Open Questions
+11.1 Assumptions to Validate
+Audience growth: 1,000–3,000 subscribers in year 1 from cold start. Dependent on LinkedIn and speaking.
+Conversion rate: 1–3% of free subscribers purchasing paid products (industry standard, unvalidated for this niche).
+Content pace: 2 articles/week as a side project, sustainable long-term—increasingly validated in practice rather than purely speculative.
+Engagement tier pricing: The low-cost threshold needed to keep this tier a flywheel accelerant rather than a revenue center has not yet been set or tested.
+Tool demand: AEC professionals will pay for OAC-specific AI tools (unvalidated).
+Tool pricing: $25–$500 range is appropriate for this market (needs competitive analysis).
+Advisory pipeline: Content-to-advisory funnel exists but conversion timeline is unknown.
+Visual content cost: Color printing implications for POD.
+Analytics access: Manual export is reliable path; API access may come later.
+Format pattern effectiveness: Initial taxonomy borrowed from Ouyang; must be validated for OAC audience.
+Speaking fee ranges: Preliminary estimates need validation against comparable AEC industry speakers.
+11.2 Key Risks
+Writing cadence or quality drop: The single point of failure for the entire flywheel (Section 2.6). Currently well-managed but requires ongoing vigilance disproportionate to its apparent ease of execution.
+Paid engagement tier mission drift: If the tier drifts toward revenue maximization, it stops accelerating the flywheel and becomes a barrier to advisory relationships (Section 2.4, 2.6).
+Audience acquisition: Cold start with minimal budget. Mitigation: speaking + LinkedIn consistency.
+Time constraint: Full-time role limits capacity. Tool development competes with content. Mitigation: batch, buffer, AI assistance.
+Market saturation: AEC content is competitive. Mitigation: cross-disciplinary positioning + tools are genuinely unique.
+Revenue timing: $100K+ by year 2 unlikely from cold start. Mitigation: advisory revenue bridges gap.
+Platform risk: Substack dependency, including for the engagement tier’s platform-leverage mechanics. Mitigation: build email list; content and tools are portable; monitor Substack platform changes that could affect subscriber badge/rising-list dynamics.
+Tool maintenance: One-time purchase model limits revenue per user. Tools may require updates as regulations, codes, or standards change. Mitigation: version updates as new purchases, not free patches.
+Craft analysis over-optimization: Chasing format patterns at expense of authentic voice. Mitigation: patterns are tools, not templates.
+11.3 Decisions Needed Before Launch
+Determine visual density of articles (B&amp;W vs. color)
+Finalize digest and box set pricing via competitive analysis
+Set the engagement tier price point—deliberately low, but a specific number is needed
+Validate tool pricing with early users
+Finalize website build path (Squarespace vs. custom HTML/Shopify vs. Webflow/Shopify Buy Button)
+Set up LinkedIn profile and content templates around the OAC promise and audience definition
+Develop 2–3 signature speaking topics
+Design speaking-to-subscriber conversion materials
+Build 2–4 week content buffer before Substack launch
+Draft scan-prompt.md and seed topic-bank.md
+Initialize strategy-notes.md with current assumptions
+Set up Google Search Console
+Define advisory service offering, scope, and pricing
+12. Success Metrics
+Success is measured on four tracks:
+Content Track
+Metric
+Year 1
+Year 2
+Year 3
+Free subscribers
+1,000–3,000
+5,000–10,000
+15,000–25,000
+Articles published
+100
+200
+300
+Digests produced
+0
+20–25
+40–50
+Content revenue
+$0–$2K
+$5K–$15K
+$30K–$60K
+Speaking engagements
+3–5 (unpaid)
+6–10 (mix)
+10+ (mostly paid)
+Format patterns validated
+3–5 initial
+5–8 refined
+Mature taxonomy
+Organic search visitors/month
+Baseline
+100–500
+500–2,000+
+Engagement Tier Track
+Metric
+Year 1
+Year 2
+Year 3
+Paid engagement subscribers
+Baseline
+Growing alongside free list
+Meaningful, stable base
+Engagement tier revenue
+$0–$1K
+$2K–$5K
+$5K–$10K
+Restack rate (per article)
+Baseline
+Measurable trend
+Benchmark established
+Comment-derived topic bank entries
+Baseline
+Regular contributor
+Established channel
+Tools Track
+Metric
+Year 1
+Year 2
+Year 3
+Tools available
+3–5
+6–10
+10–15
+Tools revenue
+$0–$5K
+$10K–$30K
+$30K–$75K
+Units sold
+Baseline
+200–500
+500–1,500
+Content-to-tool conversion rate
+Baseline
+Measurable
+Optimized
+Services Track
+Metric
+Year 1
+Year 2
+Year 3
+Advisory leads
+Relationship building
+0–1 engagement
+1–2 engagements
+Architecture commissions
+Indirect
+Pipeline building
+Measurable attribution
+Deal flow / investment
+Not expected
+Awareness building
+Active opportunities
+Regional footprint
+Home market only
+1–2 new regions explored
+Established multi-region presence
+North Star Metric: 1–2 meaningful advisory or deal-flow leads per year by year 3 justifies the entire operation, regardless of content, engagement tier, or tools revenue performance.
+END OF BUSINESS PLAN DRAFT
