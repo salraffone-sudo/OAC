@@ -37,7 +37,7 @@
   <section class="hero" data-screen-label="Products">
     <p class="eyebrow"><span class="tick">+</span>Products</p>
     <h1>Insight + Application</h1>
-    <p class="lede">The articles explain the thinking. These products apply it. Everything below is in development — subscribe on Substack to hear when each one launches.</p>
+    <p class="lede">The articles explain the thinking. These products apply it. Most of what's below is still in development — subscribe on Substack to hear when each one launches.</p>
     <div class="btn-row">
       <a class="btn btn-primary" href="https://salvatoreraffone.substack.com/" target="_blank" rel="noopener">Subscribe for Updates</a>
     </div>
@@ -45,12 +45,22 @@
 
   <section class="section" data-screen-label="Product catalog">
     <div class="product-grid">
-      <article class="product">
-        <span class="num">01</span>
-        <h3>Tools + Templates</h3>
-        <p>AI-powered professional tools that encode cross-disciplinary expertise into practical workflow applications — cost estimators, document evaluators, and templates mapped to the OAC disciplines.</p>
-        <span class="badge">In Development</span>
-      </article>
+      <details class="product product-expandable">
+        <summary>
+          <span class="num">01</span>
+          <h3>Tools + Templates</h3>
+          <p>AI-powered professional tools that encode cross-disciplinary expertise into practical workflow applications — cost estimators, document evaluators, and templates mapped to the OAC disciplines.</p>
+          <span class="badge badge-live">Beta</span>
+          <span class="expand-hint">View tools <span class="chev">+</span></span>
+        </summary>
+        <div class="product-links">
+          <!-- TOOL LINKS — copy a block below to add another tool. Replace the href with the tool's real URL. -->
+          <a class="tool-link" href="https://tradewire-one.vercel.app/" target="_blank" rel="noopener">
+            <span class="tool-name">TradeWire Database</span>
+            <span class="tool-desc">Searchable trade + vendor database for project teams.</span>
+          </a>
+        </div>
+      </details>
       <article class="product">
         <span class="num">02</span>
         <h3>Essay Collections</h3>
