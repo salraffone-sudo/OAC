@@ -254,6 +254,70 @@ body {
   padding: 4px 10px;
 }
 
+.badge-live {
+  color: var(--oac-white);
+  background: var(--oac-red);
+  border-color: var(--oac-red);
+}
+
+/* ---------- Expandable product card ---------- */
+.product-expandable { cursor: pointer; transition: border-color 150ms ease; display: block; }
+.product-expandable:not([open]) .product-links { display: none; }
+.product-expandable:hover { border-color: var(--border-strong); }
+.product-expandable > summary {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.product-expandable > summary::-webkit-details-marker { display: none; }
+.product-expandable > summary::marker { content: ""; }
+.expand-hint {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-body);
+  font-size: var(--text-xs);
+  font-weight: var(--weight-semibold);
+  letter-spacing: var(--tracking-wide);
+  text-transform: uppercase;
+  color: var(--oac-rose);
+}
+.expand-hint .chev {
+  font-family: var(--font-body);
+  font-size: var(--text-md);
+  line-height: 1;
+  transition: transform 150ms ease;
+}
+.product-expandable[open] .expand-hint .chev { transform: rotate(45deg); }
+.product-links {
+  display: grid;
+  gap: 10px;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border-default);
+}
+.tool-link {
+  display: grid;
+  gap: 4px;
+  padding: 14px 16px;
+  border: 1px solid var(--border-default);
+  border-left: 3px solid var(--accent-danger);
+  border-radius: 3px;
+  text-decoration: none;
+  transition: border-color 150ms ease, background 150ms ease;
+}
+.tool-link:hover { background: rgba(255,255,255,0.04); border-color: var(--border-strong); border-left-color: var(--accent-danger); }
+.tool-name {
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-bold);
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  color: var(--text-heading);
+}
+.tool-desc { font-size: var(--text-sm); color: var(--text-body); }
+
 /* ---------- Contact ---------- */
 .contact-list {
   display: grid;
